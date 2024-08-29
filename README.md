@@ -1,6 +1,8 @@
 <div align="center">
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!%20I'm%20Mubasheer&height=100&section=header)
+    
+<img align="center" src="https://media1.tenor.com/m/UXt73-7WoloAAAAd/hollow-purple-satoro-gojou.gif" />
+    
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!%20I'm%20Mubasheer&height=100&section=header)
 
 ## :bust_in_silhouette: About Me
 &nbsp;
