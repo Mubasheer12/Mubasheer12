@@ -2,7 +2,7 @@
     
 <img align="center" src="https://media1.tenor.com/m/8wChjJx2LHIAAAAd/gojo-satoru-gojo.gif" />
     
-![](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!%20I'm%20Mubasheer&height=100&section=header)
+![header](https://capsule-render.vercel.app/api?type=transparent&text=Hello!%20I'm%20Mubasheer&fontColor=d6ace6)
 
 ## :bust_in_silhouette: About Me
 &nbsp;
