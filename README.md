@@ -22,7 +22,7 @@ Hey there! 👋 I’m MD Mubasheer Azam, a Student and Software Developer with a
     </a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=Mubasheer12&style=flat-square&label=Profile+Views&color=ff3333)
+![](https://komarev.com/ghpvc/?username=Mubasheer12&style=flat-square&label=Profile+Views&color=blueviolet)
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer)
 
 </div>
