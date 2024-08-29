@@ -4,7 +4,7 @@
 
 ## :bust_in_silhouette: About Me
 &nbsp;
-Hey there! 👋 I’m MD Mubasheer Azam, a Student and Software Developer with a passion for Data Science, AI/ML, and all things Tech.  I’m always up for a challenge, especially those that push me to find efficient solutions and make a real impact. My happy place? Building innovative projects that bring joy and discovery to others. When I’m not deep in Code, you’ll find me diving into Hackathons and Coding Competitions—where I’ve snagged quite a few wins 🏆—or perfecting my latest creation to make it more user-friendly. I’m all about exploring the boundaries of what’s possible, whether it’s through my projects or by immersing myself in the latest Anime. And yes, Video games are my go-to when I need a break! 😄
+Hey there! 👋 I’m MD Mubasheer Azam, a Student and Software Developer with a passion for Data Science, AI/ML, and all things Tech.  I’m always up for a challenge, especially those that push me to find efficient solutions and make a real impact. My happy place? Building innovative projects that bring joy and discovery to others. When I’m not deep in Code, you’ll find me diving into Hackathons and Coding Competitions—where I’ve snagged quite a few wins 🏆—or perfecting my latest creation to make it more user-friendly. I’m all about exploring the boundaries of what’s possible, whether it’s through my projects or by immersing myself in the latest Anime. And yes, Video-games are my go-to when I need a break! 😄
 
 ## 🔖 My Stats
 &nbsp;
